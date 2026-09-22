@@ -1,0 +1,8 @@
+panda 02 30
+lion 10 30
+cat 11 30
+cat 11 30
+cat 11 30
+dog 12 30
+dog 12 30
+dog 12 30
